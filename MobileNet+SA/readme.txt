@@ -1,0 +1,1 @@
+the hierarchical mobilenet+soft-attention model goes here. to receive it just contact me at kai.mehsi@gmail.com
